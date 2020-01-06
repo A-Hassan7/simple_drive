@@ -5,7 +5,7 @@ from pydrive.auth import GoogleAuth as ga
 from pydrive.drive import GoogleDrive as gd
 
 
-class Google_drive():
+class Google_Drive():
     def __init__(self):
         pass
 
