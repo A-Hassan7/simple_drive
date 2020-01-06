@@ -20,8 +20,8 @@ The Google Drive API provides a somewhat long-winded process to upload and downl
 
 ```python
 
-from simple_drive import Google_drive
-drive = Google_drive() # initialize class
+from simple_drive import Google_Drive
+drive = Google_Drive() # initialize class
 drive.authenticate() # follow authentication instructions
 
 #Upload a file
